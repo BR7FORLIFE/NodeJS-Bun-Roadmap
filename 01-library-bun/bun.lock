@@ -6,6 +6,7 @@
       "name": "01-library-bun",
       "dependencies": {
         "express": "^5.2.1",
+        "mongodb": "^7.0.0",
         "mongoose": "^9.1.1",
       },
       "devDependencies": {
