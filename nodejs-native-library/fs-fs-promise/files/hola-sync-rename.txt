@@ -1,0 +1,3 @@
+Hola desde write file de forma sincrona
+
+este es un texto añadido ademas del anterior
